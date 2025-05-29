@@ -20,7 +20,6 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 - 📝 Published with **Cambridge University Press** on psycholinguistics  
 - 🔍 Exploring intersections of **ethics, interpretability, and ML**  
 
----
 
 ### 🧰 Tech Stack
 
@@ -30,7 +29,6 @@ Libraries:    pandas, NumPy, SciPy, scikit-learn, PyTorch, matplotlib
 Frameworks:   Snorkel, run.ai, imblearn, statsmodels  
 Tools:        Neo4j, MongoDB, Tableau, GCP, Git, Shell  
 
----
 
 ### 📂 Featured Projects
 
@@ -47,7 +45,6 @@ Tools:        Neo4j, MongoDB, Tableau, GCP, Git, Shell
   *Developing a seasonal trend forecasting tool using LLMs for e-commerce and retail optimisation.*  
   **Context:** University of Chicago Applied Data Science Capstone
 
----
 
 ### 💼 Experience Highlights
 
@@ -70,35 +67,16 @@ Tools:        Neo4j, MongoDB, Tableau, GCP, Git, Shell
   - Conducted consumer trend analysis using social listening tools  
   - Created sustainability-driven marketing strategy, boosting engagement by 30%
 
----
 
 ### 📚 Publications
 
 > 📝 *"A Conceptual Replication of an Implicit Test of Grammatical Gender Effects on Inanimate Concepts"*  
 > *Cambridge University Press, January 2025*
 
----
 
 ### 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/devimahajan/)
 - [GitHub](https://github.com/devyanimahajan)
 
----
 
-
-
-<!--
-**devyanimahajan/devyanimahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
