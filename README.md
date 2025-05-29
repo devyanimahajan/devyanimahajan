@@ -22,7 +22,6 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 
 -  [**Recidivism Bias Predictor**](https://github.com/devyanimahajan/recidivism_predictor_mlp)  
   *MLP-based classifier to detect and minimise bias in recidivism predictions — 97% accuracy*
-
 -  [**Employee Attrition Analysis**](https://github.com/devyanimahajan/ml1_finalproject)  
   *Used k-prototypes and classification models to forecast HR attrition trends*
 
@@ -31,14 +30,11 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 ### 🪷 Experience Highlights
 
 -  **Data Science Institute, UChicago**  
-  *Workshop leader & project mentor for Python, Git, and real-world DS projects*
-   
+  *Workshop leader & project mentor for Python, Git, and real-world DS projects*  
 -  **Indiana University SPIN Lab**  
-  *Researched phonetics and early childhood speech development*
-   
+  *Researched phonetics and early childhood speech development*   
 -  **BNY Mellon**  
   *Built fraud detection models with CNNs and automated 10-K parsing with Snorkel*
-
 -  **Grey Group Singapore**  
   *Analyzed consumer behavior using social listening for sustainability strategy*
 
