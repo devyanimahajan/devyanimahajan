@@ -4,11 +4,11 @@
 ![LLM Researcher](https://img.shields.io/badge/LLM_Researcher-pink?style=flat-square&logo=pytorch&logoColor=white)
 ![UChicago MSADS](https://img.shields.io/badge/UChicago_MSADS-darkgreen?style=flat-square&logo=googlecolab&logoColor=white)
 
+I'm a Data Scientist and an **MS Applied Data Science** student at the **University of Chicago**, passionate about making machine learning and AI more interpretable, impactful, and accessible.  I've implemented data-driven solutions across finance, e-commerce, and scientific research, and I hope to continue applying statistical reasoning, prompt engineering, and deep learning to solve complex real-world problems.
+
 ---
 
 ### 🪷 About Me
-
-I'm a Data Scientist and an **MS Applied Data Science** student at the **University of Chicago**, passionate about making machine learning and AI more interpretable, impactful, and accessible.  I've implemented data-driven solutions across finance, e-commerce, and scientific research, and I hope to continue applying statistical reasoning, prompt engineering, and deep learning to solve complex real-world problems.
 
 -  **BA** in Cognitive Science & English Literature, Swarthmore College  
 -  Research in psycholinguistics, NLP, and speech science  
