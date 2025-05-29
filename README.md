@@ -32,12 +32,12 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 
 -  **Data Science Institute, UChicago**  
   *Workshop leader & project mentor for Python, Git, and real-world DS projects*
-
--  **BNY Mellon**  
-  *Built fraud detection models with CNNs and automated 10-K parsing with Snorkel*
-
+   
 -  **Indiana University SPIN Lab**  
   *Researched phonetics and early childhood speech development*
+   
+-  **BNY Mellon**  
+  *Built fraud detection models with CNNs and automated 10-K parsing with Snorkel*
 
 -  **Grey Group Singapore**  
   *Analyzed consumer behavior using social listening for sustainability strategy*
