@@ -46,7 +46,7 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 
 ### 🪷 Publications
 
->  *"A Conceptual Replication of an Implicit Test of Grammatical Gender Effects on Inanimate Concepts"*  
+>  [*"A Conceptual Replication of an Implicit Test of Grammatical Gender Effects on Inanimate Concepts"*](https://www.cambridge.org/core/journals/language-and-cognition/article/conceptual-replication-of-an-implicit-test-of-grammatical-gender-effects-on-inanimate-concepts/3A29B4CC2A45ADAB1B21910E79CB908C)  
 > *Published in Cambridge University Press, Jan 2025*
 
 ---
