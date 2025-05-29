@@ -1,12 +1,8 @@
-<!-- README.md -->
+# 👋 Hi, I'm Devyani Mahajan
 
-<h1 align="center">👋 Hi, I'm <span style="color:#c8328a;">Devyani Mahajan</span></h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Scientist-darkgreen?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Researcher-pink?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/UChicago_MSADS-darkgreen?style=flat-square&logo=googlecolab&logoColor=white" />
-</p>
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-darkgreen?style=flat-square&logo=python&logoColor=white)
+![LLM Researcher](https://img.shields.io/badge/LLM_Researcher-pink?style=flat-square&logo=pytorch&logoColor=white)
+![UChicago MSADS](https://img.shields.io/badge/UChicago_MSADS-darkgreen?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
@@ -18,65 +14,50 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 - 🧠 Research in speech science, NLP, and gender conceptualisation  
 - 🛠 Currently building **LLMs for retail forecasting** with UNIQLO China  
 - 📝 Published with **Cambridge University Press** on psycholinguistics  
-- 🔍 Exploring intersections of **ethics, interpretability, and ML**  
+- 🔍 Exploring intersections of **ethics, interpretability, and ML**
 
-
-### 🧰 Tech Stack
-
-```text
-Languages:    Python, R, SQL, C++, JavaScript  
-Libraries:    pandas, NumPy, SciPy, scikit-learn, PyTorch, matplotlib  
-Frameworks:   Snorkel, run.ai, imblearn, statsmodels  
-Tools:        Neo4j, MongoDB, Tableau, GCP, Git, Shell  
-
+---
 
 ### 📂 Featured Projects
 
 - 🔍 [**Recidivism Bias Predictor**](https://github.com/devyanimahajan/recidivism_predictor_mlp)  
-  *A multi-layer perceptron model to detect and reduce bias in recidivism predictions.*  
-  **Tech:** Python, PyTorch, scikit-learn, NumPy, Matplotlib  
-  **Accuracy:** 97%
+  *MLP-based classifier to detect and minimise bias in recidivism predictions — 97% accuracy*
 
 - 🧠 [**Employee Attrition Analysis**](https://github.com/devyanimahajan/ml1_finalproject)  
-  *Clustering and classification of HR data to identify attrition risk.*  
-  **Tech:** Python, sklearn, statsmodels, imblearn
+  *Used k-prototypes and classification models to forecast HR attrition trends*
 
-- 📈 **Capstone – UNIQLO China**  
-  *Developing a seasonal trend forecasting tool using LLMs for e-commerce and retail optimisation.*  
-  **Context:** University of Chicago Applied Data Science Capstone
+- 📈 **Capstone (Uniqlo China)**  
+  *Developing an LLM-powered seasonal forecasting tool for retail and e-commerce*
 
+---
 
 ### 💼 Experience Highlights
 
-- **Data Science Institute, University of Chicago**  
-  _Laboratory Coordinator & Technical Tutor_  
-  - Led workshops on Git, Python, and Shell  
-  - Advised interdisciplinary data science projects
+- 🧪 **Data Science Institute, UChicago**  
+  *Workshop leader & project mentor for Python, Git, and real-world DS projects*
 
-- **BNY Mellon – Data Science Intern**  
-  - Built fraud detection CNNs with 83% accuracy  
-  - Created Snorkel-based 10-K document classifiers, improving accuracy by 40%  
-  - Authored AI/ML model documentation
+- 🧬 **BNY Mellon**  
+  *Built fraud detection models with CNNs and automated 10-K parsing with Snorkel*
 
-- **Indiana University SPIN Lab – Research Analyst**  
-  - Processed 400+ phonetic trials  
-  - Ran JavaScript experiments for early childhood speech analysis  
-  - Drafted grant proposals and improved data processes by 12%
+- 🧪 **Indiana University SPIN Lab**  
+  *Researched phonetics and early childhood speech development*
 
-- **Grey Group Singapore – Account Management Intern**  
-  - Conducted consumer trend analysis using social listening tools  
-  - Created sustainability-driven marketing strategy, boosting engagement by 30%
+- 🌍 **Grey Group Singapore**  
+  *Analyzed consumer behavior using social listening for sustainability strategy*
 
+---
 
 ### 📚 Publications
 
 > 📝 *"A Conceptual Replication of an Implicit Test of Grammatical Gender Effects on Inanimate Concepts"*  
-> *Cambridge University Press, January 2025*
+> *Published in Cambridge University Press, Jan 2025*
 
+---
 
 ### 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/devimahajan/)
 - [GitHub](https://github.com/devyanimahajan)
 
+---
 
