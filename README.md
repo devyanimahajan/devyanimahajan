@@ -1,4 +1,4 @@
-# Hi, I'm Devi!
+# Hi, I'm Devi! Welcome to my GitHub :) 
 
 ![Data Scientist](https://img.shields.io/badge/Data_Scientist-darkgreen?style=flat-square&logo=python&logoColor=white)
 ![LLM Researcher](https://img.shields.io/badge/LLM_Researcher-pink?style=flat-square&logo=pytorch&logoColor=white)
