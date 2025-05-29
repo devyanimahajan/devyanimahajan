@@ -21,7 +21,7 @@ I'm a Data Scientist and an **MS Applied Data Science** student at the **Univers
 ### 🪷 Featured Projects
 
 -  [**Recidivism Bias Predictor**](https://github.com/devyanimahajan/recidivism_predictor_mlp)  
-  *MLP-based classifier to detect and minimise bias in recidivism predictions — 97% accuracy*
+  *MLP-based classifier to detect and minimise bias in recidivism predictions; 97% accuracy*
 -  [**Employee Attrition Analysis**](https://github.com/devyanimahajan/ml1_finalproject)  
   *Used k-prototypes and classification models to forecast HR attrition trends*
 
