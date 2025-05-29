@@ -8,10 +8,10 @@
 
 ### 🪷 About Me
 
-I'm a Data Scientist and MSc student in Applied Data Science at the **University of Chicago**, passionate about making machine learning and AI more interpretable, impactful, and accessible. I love applying statistical reasoning, prompt engineering, and deep learning to solve complex real-world problems.
+I'm a Data Scientist and an **MS Applied Data Science** student at the **University of Chicago**, passionate about making machine learning and AI more interpretable, impactful, and accessible. I love applying statistical reasoning, prompt engineering, and deep learning to solve complex real-world problems.
 
 -  **BA** in Cognitive Science & English Literature, Swarthmore College  
--  Research in speech science, NLP, and gender conceptualisation  
+-  Research in psycholinguistics, NLP, and speech science  
 -  Currently building **LLMs for retail forecasting** with UNIQLO China  
 -  Published with **Cambridge University Press** on psycholinguistics  
 -  Exploring intersections of **ethics, interpretability, and ML**
@@ -36,7 +36,7 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 -  **BNY Mellon**  
   *Built fraud detection models with CNNs and automated 10-K parsing with Snorkel*
 -  **Grey Group Singapore**  
-  *Analyzed consumer behavior using social listening for sustainability strategy*
+  *Analysed consumer behaviour using social listening for sustainability strategy*
 
 ---
 
