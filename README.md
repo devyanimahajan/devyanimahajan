@@ -29,9 +29,9 @@ I'm a Data Scientist and an **MS Applied Data Science** student at the **Univers
 
 ### 🪷 Tech Stack
 
-**Languages:**    Python, R, SQL, C++  
-**Libraries:**    pandas, NumPy, SciPy, scikit-learn, PyTorch, matplotlib, seaborn, imblearn
-**Tools:**        Neo4j, MongoDB, Tableau, GCP, Git, Shell 
+- **Languages:**    Python, R, SQL, C++  
+- **Libraries:**    pandas, NumPy, SciPy, scikit-learn, PyTorch, matplotlib, seaborn, imblearn
+- **Tools:**        Neo4j, MongoDB, Tableau, GCP, Git, Shell 
 
 ---
 
