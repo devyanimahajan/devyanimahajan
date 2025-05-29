@@ -26,6 +26,14 @@ I'm a Data Scientist and an **MS Applied Data Science** student at the **Univers
   *Used k-prototypes and classification models to forecast HR attrition trends*
 
 ---
+### 🪷 Tech Stack
+
+```text
+Languages:    Python, R, SQL, C++, JavaScript  
+Libraries:    pandas, NumPy, SciPy, scikit-learn, PyTorch, matplotlib  
+Frameworks:   Snorkel, run.ai, imblearn, statsmodels  
+Tools:        Neo4j, MongoDB, Tableau, GCP, Git, Shell  
+---
 
 ### 🪷 Experience Highlights
 
