@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Devyani Mahajan
+# Hi, I'm Devi!
 
 ![Data Scientist](https://img.shields.io/badge/Data_Scientist-darkgreen?style=flat-square&logo=python&logoColor=white)
 ![LLM Researcher](https://img.shields.io/badge/LLM_Researcher-pink?style=flat-square&logo=pytorch&logoColor=white)
@@ -6,7 +6,7 @@
 
 ---
 
-### 🌱 About Me
+### 💗 About Me
 
 I'm a Data Scientist and MSc student in Applied Data Science at the **University of Chicago**, passionate about making machine learning and AI more interpretable, impactful, and accessible. I love applying statistical reasoning, prompt engineering, and deep learning to solve complex real-world problems.
 
@@ -18,7 +18,7 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 
 ---
 
-### 📂 Featured Projects
+### 💗 Featured Projects
 
 - 🔍 [**Recidivism Bias Predictor**](https://github.com/devyanimahajan/recidivism_predictor_mlp)  
   *MLP-based classifier to detect and minimise bias in recidivism predictions — 97% accuracy*
@@ -31,7 +31,7 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 
 ---
 
-### 💼 Experience Highlights
+### 💗 Experience Highlights
 
 - 🧪 **Data Science Institute, UChicago**  
   *Workshop leader & project mentor for Python, Git, and real-world DS projects*
@@ -47,7 +47,7 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 
 ---
 
-### 📚 Publications
+### 💗 Publications
 
 > 📝 *"A Conceptual Replication of an Implicit Test of Grammatical Gender Effects on Inanimate Concepts"*  
 > *Published in Cambridge University Press, Jan 2025*
@@ -57,7 +57,5 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 ### 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/devimahajan/)
-- [GitHub](https://github.com/devyanimahajan)
-
 ---
 
