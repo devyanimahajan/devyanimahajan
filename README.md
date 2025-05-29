@@ -26,9 +26,6 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 -  [**Employee Attrition Analysis**](https://github.com/devyanimahajan/ml1_finalproject)  
   *Used k-prototypes and classification models to forecast HR attrition trends*
 
--  **Capstone (Uniqlo China)**  
-  *Developing an LLM-powered seasonal forecasting tool for retail and e-commerce*
-
 ---
 
 ### 🪷 Experience Highlights
@@ -52,10 +49,5 @@ I'm a Data Scientist and MSc student in Applied Data Science at the **University
 >  *"A Conceptual Replication of an Implicit Test of Grammatical Gender Effects on Inanimate Concepts"*  
 > *Published in Cambridge University Press, Jan 2025*
 
----
-
-### 🪷 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/devimahajan/)
 ---
 
