@@ -14,7 +14,7 @@ I'm a Data Scientist and an **MS Applied Data Science** student at the **Univers
 -  Research in psycholinguistics, NLP, and speech science  
 -  Currently building **LLMs for retail forecasting** with UNIQLO China  
 -  Published with **Cambridge University Press** on psycholinguistics  
--  Exploring intersections of **ethics, interpretability, and ML**
+-  Exploring intersections of **ethics, interpretability, and AI**
 
 ---
 
