@@ -20,10 +20,12 @@ I'm a Data Scientist and an **MS Applied Data Science** student at the **Univers
 
 ### 🪷 Featured Projects
 
--  [**Recidivism Bias Predictor**](https://github.com/devyanimahajan/recidivism_predictor_mlp)  
-  *MLP-based classifier to detect and minimise bias in recidivism predictions; 97% accuracy*
+- [**United Airlines Agentic AI Platform**](https://github.com/devyanimahajan/united_hackathon)  
+  *Developed agentic AI system with RAG and modular microservices to automate flight disruption recovery*
 -  [**Employee Attrition Analysis**](https://github.com/devyanimahajan/ml1_finalproject)  
   *Used k-prototypes and classification models to forecast HR attrition trends*
+- [**Recidivism Bias Predictor**](https://github.com/devyanimahajan/recidivism_predictor_mlp)  
+  *MLP-based classifier to detect and minimise bias in recidivism predictions; 97% accuracy*
 
 ---
 
