@@ -13,7 +13,7 @@ I'm a Data Scientist and an **MS Applied Data Science** student at the **Univers
 -  **BA** in Cognitive Science & English Literature, Swarthmore College  
 -  Research in psycholinguistics, NLP, and speech science  
 -  Currently building **LLMs for retail forecasting** with UNIQLO China  
--  Published with **Cambridge University Press** on psycholinguistics  
+-  Published research on psycholinguistics with **Cambridge University Press**  
 -  Exploring intersections of **ethics, interpretability, and AI**
 
 ---
