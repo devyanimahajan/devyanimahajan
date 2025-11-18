@@ -4,7 +4,7 @@
 ![LLM Researcher](https://img.shields.io/badge/LLM_Researcher-pink?style=flat-square&logo=pytorch&logoColor=white)
 ![UChicago MSADS](https://img.shields.io/badge/UChicago_MSADS-darkgreen?style=flat-square&logo=googlecolab&logoColor=white)
 
-I'm a data scientist and **MS Applied Data Science** student at the **University of Chicago**, passionate about designing ML systems that deliver measurable value. I’ve built data-driven products across asset allocation, retail forecasting, and speech science research, leveraging deep learning, prompt engineering, and cloud-based workflows. I care about creating machine learning solutions that are not only accurate but intuitive, scalable, and aligned with real user needs.
+I'm a data scientist and **MS Applied Data Science** student at the **University of Chicago**, passionate about designing AI/ML systems that deliver measurable value. I’ve built data-driven products across asset allocation, retail forecasting, speech science research, and more, leveraging deep learning, statistical modelling, LLM fine-tuning, and cloud-based workflows. I care about creating accurate, scalable machine learning solutions that align with real user needs and solve real problems.
 
 ---
 
