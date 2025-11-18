@@ -4,14 +4,14 @@
 ![LLM Researcher](https://img.shields.io/badge/LLM_Researcher-pink?style=flat-square&logo=pytorch&logoColor=white)
 ![UChicago MSADS](https://img.shields.io/badge/UChicago_MSADS-darkgreen?style=flat-square&logo=googlecolab&logoColor=white)
 
-I'm a data scientist and an **MS Applied Data Science** student at the **University of Chicago**, passionate about making machine learning and AI more interpretable, impactful, and accessible.  I've implemented data-driven solutions across finance, e-commerce, and scientific research, and I hope to continue applying statistical reasoning, prompt engineering, and deep learning to solve complex real-world problems.
+I'm a data scientist and **MS Applied Data Science** student at the **University of Chicago**, passionate about designing ML systems that deliver measurable value. I’ve built data-driven products across asset allocation, retail forecasting, and speech science research, leveraging deep learning, prompt engineering, and cloud-based workflows. I care about creating machine learning solutions that are not only accurate but intuitive, scalable, and aligned with real user needs.
 
 ---
 
 ### 🪷 About Me
 
 -  **BA** in Cognitive Science & English Literature, Swarthmore College  
--  Research in psycholinguistics, NLP, and speech science  
+-  Applied research in LLMs, psycholinguistics, NLP, and speech science  
 -  Currently building **agentic AI solutions for retail forecasting** with UNIQLO  
 -  Published research on psycholinguistics with **Cambridge University Press**  
 -  Exploring intersections of **ethics, interpretability, and AI**
@@ -31,9 +31,9 @@ I'm a data scientist and an **MS Applied Data Science** student at the **Univers
 
 ### 🪷 Tech Stack
 
-- **Languages:**    Python, R, SQL, C++  
-- **Libraries:**    pandas, NumPy, SciPy, scikit-learn, PyTorch, matplotlib, seaborn, imblearn, pyfolio, riskfolio
-- **Tools:**        Neo4j, MongoDB, Tableau, GCP, Git, Shell 
+- **Languages:**    Python, R, SQL
+- **Libraries:**     Pandas, NumPy, scikit-learn, PyTorch, SciPy, LangChain, NLTK, statsmodels, imblearn, Streamlit, pyfolio, riskfolio
+- **Tools:**        Git, GCP, Docker, Tableau, MongoDB, Neo4j, Snorkel, NVIDIA run.ai, LLM APIs (Gemini, Llama, OpenAI) 
 
 ---
 
@@ -41,13 +41,10 @@ I'm a data scientist and an **MS Applied Data Science** student at the **Univers
 
 - **AIR Lab, University of Chicago**  
   *Conducting Google-funded research on safety and privacy evaluation for youth-facing chatbots; building analytical frameworks to inform prototype design and model behaviour*
-
 - **Data Science Institute, University of Chicago**  
   *Designed and delivered Python, Git, and GCP workshops; built standardised ML workflows and mentored cross-functional teams across 25+ applied AI projects*
-
 - **SPIN Lab, Indiana University**  
   *Engineered statistical and computational pipelines in R and JavaScript to model 400+ phonetic datasets and generate reproducible insights on early-childhood speech development*
-
 - **BNY Mellon**  
   *Built a CNN-based fraud detection system with 93 percent accuracy and developed Snorkel weak-supervision pipelines that improved 10-K document classification precision by 40 percent*
 
