@@ -12,7 +12,7 @@ I'm a data scientist and an **MS Applied Data Science** student at the **Univers
 
 -  **BA** in Cognitive Science & English Literature, Swarthmore College  
 -  Research in psycholinguistics, NLP, and speech science  
--  Currently building **LLMs for retail forecasting** with UNIQLO  
+-  Currently building **agentic AI solutions for retail forecasting** with UNIQLO  
 -  Published research on psycholinguistics with **Cambridge University Press**  
 -  Exploring intersections of **ethics, interpretability, and AI**
 
@@ -32,21 +32,24 @@ I'm a data scientist and an **MS Applied Data Science** student at the **Univers
 ### 🪷 Tech Stack
 
 - **Languages:**    Python, R, SQL, C++  
-- **Libraries:**    pandas, NumPy, SciPy, scikit-learn, PyTorch, matplotlib, seaborn, imblearn
+- **Libraries:**    pandas, NumPy, SciPy, scikit-learn, PyTorch, matplotlib, seaborn, imblearn, pyfolio, riskfolio
 - **Tools:**        Neo4j, MongoDB, Tableau, GCP, Git, Shell 
 
 ---
 
 ### 🪷 Experience Highlights
 
--  **Data Science Institute, UChicago**  
-  *Workshop leader & project mentor for Python, Git, and real-world DS projects*  
--  **Indiana University SPIN Lab**  
-  *Researched phonetics and early childhood speech development*   
--  **BNY Mellon**  
-  *Built fraud detection models with CNNs and automated 10-K parsing with Snorkel*
--  **Grey Group Singapore**  
-  *Analysed consumer behaviour using social listening for sustainability strategy*
+- **AIR Lab, University of Chicago**  
+  *Conducting Google-funded research on safety and privacy evaluation for youth-facing chatbots; building analytical frameworks to inform prototype design and model behaviour*
+
+- **Data Science Institute, University of Chicago**  
+  *Designed and delivered Python, Git, and GCP workshops; built standardised ML workflows and mentored cross-functional teams across 25+ applied AI projects*
+
+- **SPIN Lab, Indiana University**  
+  *Engineered statistical and computational pipelines in R and JavaScript to model 400+ phonetic datasets and generate reproducible insights on early-childhood speech development*
+
+- **BNY Mellon**  
+  *Built a CNN-based fraud detection system with 93 percent accuracy and developed Snorkel weak-supervision pipelines that improved 10-K document classification precision by 40 percent*
 
 ---
 
