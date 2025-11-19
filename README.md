@@ -10,6 +10,7 @@ I'm a data scientist and **MS Applied Data Science** student at the **University
 
 ### 🪷 About Me
 
+-  **MS** in Applied Data Science, University of Chicago
 -  **BA** in Cognitive Science & English Literature, Swarthmore College  
 -  Applied research in LLMs, psycholinguistics, NLP, and speech science  
 -  Currently building **agentic AI solutions for retail forecasting** with UNIQLO  
