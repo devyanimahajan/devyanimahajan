@@ -14,7 +14,6 @@ I'm a data scientist and **MS Applied Data Science** graduate from the **Univers
 -  **BA** in Cognitive Science & English Literature, Swarthmore College
 -  Building **agentic AI solutions for retail forecasting** with UNIQLO  
 -  Applied research in LLMs, psycholinguistics, and NLP  
--  Published research on psycholinguistics with **Cambridge University Press**  
 -  Exploring intersections of **ethics, interpretability, and AI**
 
 ---
@@ -41,13 +40,13 @@ I'm a data scientist and **MS Applied Data Science** graduate from the **Univers
 ### 🪷 Experience Highlights
 
 - **Google AIR Lab, University of Chicago**  
-  *AI/ML Applied Scientist; conducted Google-funded research on safety, privacy, and behavioural evaluation of youth-facing AI systems; built reproducible qualitative and quantitative analysis workflows to study real-world chatbot interactions* :contentReference[oaicite:0]{index=0}
+  *AI/ML Applied Scientist; conducted Google-funded research on safety, privacy, and behavioural evaluation of youth-facing AI systems; built reproducible qualitative and quantitative analysis workflows to study real-world chatbot interactions*
 
 - **University of Chicago Data Science Institute**  
-  *AI/ML Project Coordinator; oversaw 25+ applied AI projects across robotics, genomics, and public health; designed standardised Git-based ML workflows, led Python, Git, and GCP workshops, and accelerated project delivery by 40 percent* :contentReference[oaicite:1]{index=1}
+  *AI/ML Project Coordinator; oversaw 25+ applied AI projects across robotics, genomics, and public health; designed standardised Git-based ML workflows, led Python, Git, and GCP workshops, and accelerated project delivery by 40 percent*
 
 - **Conant Advisory**  
-  *Applied Quantitative Analyst; designed asset-allocation and risk models using Riskfolio, Pyfolio, and Hierarchical Risk Parity; improved portfolio risk-adjusted returns by 7 percent and increased downside protection through scenario-based stress testing* :contentReference[oaicite:2]{index=2}
+  *Applied Quantitative Analyst; designed asset-allocation and risk models using Riskfolio, Pyfolio, and Hierarchical Risk Parity; improved portfolio risk-adjusted returns by 7 percent and increased downside protection through scenario-based stress testing* 
 
 
 ---
