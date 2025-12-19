@@ -4,7 +4,7 @@
 ![LLM Researcher](https://img.shields.io/badge/LLM_Researcher-pink?style=flat-square&logo=pytorch&logoColor=white)
 ![UChicago MSADS](https://img.shields.io/badge/UChicago_MSADS-darkgreen?style=flat-square&logo=googlecolab&logoColor=white)
 
-I'm a data scientist and **MS Applied Data Science** student at the **University of Chicago**, passionate about designing AI/ML systems that deliver measurable value. I’ve built data-driven products across asset allocation, retail forecasting, speech science research, and more, leveraging deep learning, statistical modelling, LLM fine-tuning, and cloud-based workflows. I care about creating accurate, scalable machine learning solutions that align with real user needs and solve real problems.
+I'm a data scientist and **MS Applied Data Science** graduate from the **University of Chicago**, passionate about designing AI/ML systems that deliver measurable value. I’ve built data-driven products across asset allocation, retail forecasting, speech science research, and more, leveraging deep learning, statistical modelling, LLM fine-tuning, and cloud-based workflows. I care about creating accurate, scalable machine learning solutions that align with real user needs and solve real problems.
 
 ---
 
@@ -12,8 +12,8 @@ I'm a data scientist and **MS Applied Data Science** student at the **University
 
 -  **MS** in Applied Data Science, University of Chicago
 -  **BA** in Cognitive Science & English Literature, Swarthmore College
--  Currently building **agentic AI solutions for retail forecasting** with UNIQLO  
--  Applied research in LLMs, psycholinguistics, NLP, and speech science  
+-  Building **agentic AI solutions for retail forecasting** with UNIQLO  
+-  Applied research in LLMs, psycholinguistics, and NLP  
 -  Published research on psycholinguistics with **Cambridge University Press**  
 -  Exploring intersections of **ethics, interpretability, and AI**
 
@@ -21,12 +21,12 @@ I'm a data scientist and **MS Applied Data Science** student at the **University
 
 ### 🪷 Featured Projects
 
+- [**Voice-to-voice Product Discovery Assistant**](https://github.com/devyanimahajan/product-assistant)  
+  *Developed agentic assistant with A2A and MCP that enables natural, conversational product search in e-commerce settings*
 - [**United Airlines Agentic AI Platform**](https://github.com/devyanimahajan/united_hackathon)  
   *Developed agentic AI system with RAG and modular microservices to automate flight disruption recovery*
 -  [**Employee Attrition Analysis**](https://github.com/devyanimahajan/ml1_finalproject)  
   *Used k-prototypes and classification models to forecast HR attrition trends*
-- [**Recidivism Bias Predictor**](https://github.com/devyanimahajan/recidivism_predictor_mlp)  
-  *MLP-based classifier to detect and minimise bias in recidivism predictions; 97% accuracy*
 
 ---
 
@@ -34,7 +34,7 @@ I'm a data scientist and **MS Applied Data Science** student at the **University
 
 - **Languages:**    Python, R, SQL
 - **Libraries:**     Pandas, NumPy, scikit-learn, PyTorch, SciPy, LangChain, NLTK, statsmodels, imblearn, Streamlit, pyfolio, riskfolio
-- **Tools:**        Git, GCP, Docker, Tableau, MongoDB, Neo4j, Snorkel, NVIDIA run.ai, LLM APIs (Gemini, Llama, OpenAI) 
+- **Tools:**        Git, GCP, Docker, Tableau, MongoDB, Neo4j, Snorkel, NVIDIA run.ai, LLM APIs (Gemini, Llama, OpenAI)
 
 ---
 
