@@ -40,14 +40,15 @@ I'm a data scientist and **MS Applied Data Science** graduate from the **Univers
 
 ### 🪷 Experience Highlights
 
-- **AIR Lab, University of Chicago**  
-  *Conducting Google-funded research on safety and privacy evaluation for youth-facing chatbots; building analytical frameworks to inform prototype design and model behaviour*
-- **Data Science Institute, University of Chicago**  
-  *Designed and delivered Python, Git, and GCP workshops; built standardised ML workflows and mentored cross-functional teams across 25+ applied AI projects*
-- **SPIN Lab, Indiana University**  
-  *Engineered statistical and computational pipelines in R and JavaScript to model 400+ phonetic datasets and generate reproducible insights on early-childhood speech development*
-- **BNY Mellon**  
-  *Built a CNN-based fraud detection system with 93 percent accuracy and developed Snorkel weak-supervision pipelines that improved 10-K document classification precision by 40 percent*
+- **Google AIR Lab, University of Chicago**  
+  *AI/ML Applied Scientist; conducted Google-funded research on safety, privacy, and behavioural evaluation of youth-facing AI systems; built reproducible qualitative and quantitative analysis workflows to study real-world chatbot interactions* :contentReference[oaicite:0]{index=0}
+
+- **University of Chicago Data Science Institute**  
+  *AI/ML Project Coordinator; oversaw 25+ applied AI projects across robotics, genomics, and public health; designed standardised Git-based ML workflows, led Python, Git, and GCP workshops, and accelerated project delivery by 40 percent* :contentReference[oaicite:1]{index=1}
+
+- **Conant Advisory**  
+  *Applied Quantitative Analyst; designed asset-allocation and risk models using Riskfolio, Pyfolio, and Hierarchical Risk Parity; improved portfolio risk-adjusted returns by 7 percent and increased downside protection through scenario-based stress testing* :contentReference[oaicite:2]{index=2}
+
 
 ---
 
