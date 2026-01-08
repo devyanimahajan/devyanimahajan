@@ -58,3 +58,8 @@ I'm a data scientist and **MS Applied Data Science** graduate from the **Univers
 
 ---
 
+### 🪷 Contact
+
+Feel free to reach out here:
+- **Email:** [devyani.mahajan@gmail.com](mailto:devyani.mahajan@gmail.com)
+- **LinkedIn:** [@devimahajan](https://www.linkedin.com/in/devimahajan/)
