@@ -12,7 +12,7 @@ I'm a data scientist and **MS Applied Data Science** graduate from the **Univers
 
 -  **MS** in Applied Data Science, University of Chicago
 -  **BA** in Cognitive Science & English Literature, Swarthmore College
--  Building **agentic AI solutions for retail forecasting** with UNIQLO  
+-  Built **agentic AI solutions for retail forecasting** with UNIQLO  
 -  Applied research in LLMs, psycholinguistics, and NLP  
 -  Exploring intersections of **ethics, interpretability, and AI**
 
